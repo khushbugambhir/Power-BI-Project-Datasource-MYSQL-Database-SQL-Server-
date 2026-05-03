@@ -6,14 +6,19 @@ Microsoft SQL Server and MYSQL Database as Datasource for this project. A Power 
 Objectives :-
 
 1)Analyze overall profit and loss trends.
+
 2)Monitor daily demand vs availability.
+
 3)Identify supply shortages.
+
 4)Enable data-driven business optimization.
 
 Key Insights :-
 
 1)Demand is significantly higher than availability → leads to shortages.
+
 2)High total loss compared to profit → requires cost optimization.
+
 3)Daily loss trend indicates continuous operational inefficiencies.
 
 
@@ -21,6 +26,9 @@ Key Insights :-
 Tools & Technologies Used :-
 
 Power BI Desktop
+
 Data Modeling & DAX
+
 Data Cleaning & Transformation (Power Query)
+
 Interactive Visualizations
